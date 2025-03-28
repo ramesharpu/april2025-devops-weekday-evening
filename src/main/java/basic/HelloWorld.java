@@ -9,7 +9,7 @@ public class HelloWorld {
 
 	
 	//from b1 branch
-	public void m1() {
+	public void m1() {//y branch changes for stash demo
 		System.out.println("from m1");//d11 cc
 	}
 }
